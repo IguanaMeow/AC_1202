@@ -1,0 +1,9 @@
+---------------------------
+ # EggCube v1 Client/Server :: https://bitbucket.org/iguanameow/ac_1202/overview
+---------------------------
+ - Forked from AssaultCube v1.2.0.2 Legacy branch :: https://github.com/assaultcube/AC/tree/legacy1202
+ - Default masterserver set to gc.fr.to
+ - Remove map restrictions
+ - Remove map name restrictions
+ - Increased map send and receive size
+ - Debug mode enabled for Linux
