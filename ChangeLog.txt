@@ -1,5 +1,15 @@
+[ ====== ChangeLog ====== ]
+
 ---------------------------
- # EggCube v1 Client/Server :: https://bitbucket.org/iguanameow/ac_1202/overview
+ # EggCube v2 Client/Server :: https://bitbucket.org/iguanameow/ac_1202/overview
+---------------------------
+ - Removed Annoying team switch admin claim cleint server messages
+ - Increased spam filter to 50 and 55
+ - Added CPistol
+ - Adjusted weapon stats
+
+---------------------------
+ # EggCube v1 Client/Server
 ---------------------------
  - Forked from AssaultCube v1.2.0.2 Legacy branch :: https://github.com/assaultcube/AC/tree/legacy1202
  - Default masterserver set to gc.fr.to
