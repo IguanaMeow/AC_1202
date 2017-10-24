@@ -17,6 +17,16 @@ Forked source code from **[AssaultCube v1.2.0.2](https://github.com/assaultcube/
 + **[Bitbucket](https://bitbucket.org/iguanameow/ac_1202/downloads)**
 + **[GitHub](https://github.com/IguanaMeow/AC_1202/releases)**
 
+###### SHA256 v3
+```
+ebc426ad4c60d2ea66145cb9c579fdc5bf9d753ae546c317fe287f630645b4b2  eggcube_64_client
+5be03253b3edfbf7b0865344cd276cc5dcf87f12651ed45fc73417b715d5c6de  eggcube_64_server
+79ae78576e964496bddd889953b98c44c89f112d9a6db663d7fc6a9a5751cd9a  eggcube_client
+36dd4e4b8b6f5e4b573568577ae38bbbe83f383b13933edd7bffab5772a78974  eggcube_server
+5dc4865cf8ac4f767c2cc9d66127e5665baece3cf3000400ecd05902a1e728ac  eggcube_client.exe
+498711286e1940c6b7576bee9acae1d4e7017d4ab78ad9c728068a9c9cea725b  eggcube_server.exe
+```
+
 ###### SHA256 v2
 ```
 ca2d63d1760fef7861a059f6573229cfc54d3ec70d5499e63701223f3c6553f1  eggcube_64_client
