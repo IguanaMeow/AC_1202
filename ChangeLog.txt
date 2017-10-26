@@ -1,7 +1,14 @@
 [ ====== ChangeLog ====== ]
 
 ---------------------------
- # EggCube v2 Client/Server :: https://bitbucket.org/iguanameow/ac_1202/overview
+ # EggCube v3 Client/Server :: https://bitbucket.org/iguanameow/ac_1202/overview
+---------------------------
+ - Ported features from AssaultCube master branch
+ - Removed some more map restrictions for online play
+ - Enabled blinking text
+
+---------------------------
+ # EggCube v2 Client/Server
 ---------------------------
  - Removed Annoying team switch admin claim cleint server messages
  - Increased spam filter to 50 and 55
