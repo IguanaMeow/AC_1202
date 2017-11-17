@@ -11,6 +11,7 @@ Forked source code from **[AssaultCube v1.2.0.2](https://github.com/assaultcube/
 + [7zip](http://7-zip.org/) or p7zip
 
 ### To Do ###
++ Port over to SDL2
 + Code and add commands to enable infrared, nightvision, and flashlight light entities for players
 
 
@@ -23,11 +24,11 @@ Forked source code from **[AssaultCube v1.2.0.2](https://github.com/assaultcube/
 
 ###### sha512 stable v1.1
 ```
-8e33316cf2da001a850fe72ddedfa10dffce9c354d8e68f0d342c126b316f0c8e1e88d7ea308eecb7bd9114640d1c563ebcac89442e157576557f831b5fa9461  eggcube_64_client
+5d30d5159265b992ef6046406f3c2f25a5134d37ef1e88d9d949a7e8afd2d87af1a5ff4e87a583c58b99f6a4fdde0897da70df852d157b47d77bdca65188e8db  eggcube_64_client
 9d34357e3845f9006148322ad20de2a830a80d369c283478cd232858e64fdae40322b84d23b0f317b4d18a11e89297112abfda9da7e54e2c910090a6e06b0bb1  eggcube_64_server
-e0bf5e881befbd86cfbb7e9b844feb6a283ae17f43c64ab187c89e6433195f5abe76b07c88f1c17fee334702ac5b139a6bdf3be1241a92fc6315d6661b706d96  eggcube_client
+089401907574cd2ce6bf24c419122f5e663bc0751d61c55fd93e8f67149caf1f941bee94da9426800affe4b833ee3647bed279616799db1988544b53c66b9dc5  eggcube_client
 adc494918fa085c94c7d03bc706c683cb0faeced573dc7ae750b80199ec367c08e74584be733094fc7518fd1fcc97143d4a5844f3e8a6b655364848d6d596afe  eggcube_server
-7a928dc41a9a2166303bf3efa282d2d6029854f75cf20f204dea86fd6c3aa6f73158a55c012f665f6e23bc250db03286d071be9534889519f58303dbb9177746  eggcube_client.exe
+044baf1dde2db98183b6d4a12a9411f5f4e2d4b46339d16c4027ada20cd61288f00dd59496407cf36ea70a921c6ed865bab6ff3bd18ea3f51413a0d50c38d2d7  eggcube_client.exe
 b7f41aa3887e280194a386c5cbd2df300a4a0cc66d6536d99051e82a7f7175d8ea9c70bf0a8fa449e801d35b0f63d54048aad6aef3c9f97fcae70bd3083fed53  eggcube_server.exe
 ```
 
