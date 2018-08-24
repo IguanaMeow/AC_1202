@@ -3,7 +3,7 @@
 Forked source code from **[AssaultCube v1.2.0.2](https://github.com/assaultcube/AC/releases/tag/v1.2.0.2)**, used to create the EggCube client and server.
 
 ###### Quick summary
-[Mirror to the Bitbucket downloads](https://bitbucket.org/iguanameow/ac_1202).
+[Mirror to the Bitbucket downloads](https://bitbucket.org/iguanameow/eggcube_mod).
 
 ###### System Requierments
 + Windows 2000 or higher
@@ -19,8 +19,8 @@ Forked source code from **[AssaultCube v1.2.0.2](https://github.com/assaultcube/
 
 ###### Downloads
 + Linux and Windows binaries:
-+ **[Bitbucket](https://bitbucket.org/iguanameow/ac_1202/downloads)**
-+ **[GitHub](https://github.com/IguanaMeow/AC_1202/releases)**
++ **[Bitbucket](https://bitbucket.org/iguanameow/eggcube_mod/downloads)**
++ **[GitHub](https://github.com/IguanaMeow/eggcube_mod/releases)**
 
 ###### sha512 stable v1.1
 ```
