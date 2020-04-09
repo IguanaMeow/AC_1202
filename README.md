@@ -10,10 +10,6 @@ Forked source code from **[AssaultCube v1.2.0.2](https://github.com/assaultcube/
 + Linux
 + [7zip](http://7-zip.org/) or p7zip
 
-### To Do ###
-+ Port over to SDL2
-+ Code and add commands to enable infrared, nightvision, and flashlight light entities for players
-
 
 ### Binaries ###
 
