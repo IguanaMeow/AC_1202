@@ -1,83 +1,25 @@
 [ ====== ChangeLog ====== ]
 
 -----------------------------------
- # EggCube stable v1.1 - Client/Server :: https://bitbucket.org/iguanameow/ac_1202/overview
+ # EggCube_current - Client/Server
 -----------------------------------
- - Restructure layout for ease of use: bin_unix, bin_win32, mods, and client/server .bat/.sh startup files
- - EggCube has its own home folder now located in .assaultcube_eggcube (Linux) and My Documents/AssaultCube_EggCube (Windows Vista/7 or newer)
- - Extra files required by eggcube are now in mods/eggcube
-
------------------------------------
- # EggCube stable v1 - Client/Server
------------------------------------
- - Re-evaluated source code from https://github.com/assaultcube/AC/releases/tag/v1.2.0.2
- - Removed the rest of map restrictions, no more!
-
------------------------------
- # EggCube v3 - Client/Server
------------------------------
- - Ported features from AssaultCube master branch
- - Removed some more map restrictions for online play
- - Enabled blinking text
-
------------------------------
- # EggCube v2 - Client/Server
------------------------------
- - Removed Annoying team switch admin claim cleint server messages
- - Increased spam filter to 50 and 55
- - Added CPistol
- - Adjusted weapon stats
-
------------------------------
- # EggCube v1 - Client/Server
------------------------------
- - Forked from AssaultCube v1.2.0.2 Legacy branch :: https://github.com/assaultcube/AC/tree/legacy1202
- - Default masterserver set to gc.fr.to
- - Remove map restrictions
- - Remove map name restrictions
- - Increased map send and receive size
- - Debug mode enabled for Linux
+ - Up to date with libcurl4 fixes for Linux 64 and 32 bit
 
 
 =======================================================================================================
 
 
-###### sha512 stable v1.1
-5d30d5159265b992ef6046406f3c2f25a5134d37ef1e88d9d949a7e8afd2d87af1a5ff4e87a583c58b99f6a4fdde0897da70df852d157b47d77bdca65188e8db  eggcube_64_client
-9d34357e3845f9006148322ad20de2a830a80d369c283478cd232858e64fdae40322b84d23b0f317b4d18a11e89297112abfda9da7e54e2c910090a6e06b0bb1  eggcube_64_server
-089401907574cd2ce6bf24c419122f5e663bc0751d61c55fd93e8f67149caf1f941bee94da9426800affe4b833ee3647bed279616799db1988544b53c66b9dc5  eggcube_client
-adc494918fa085c94c7d03bc706c683cb0faeced573dc7ae750b80199ec367c08e74584be733094fc7518fd1fcc97143d4a5844f3e8a6b655364848d6d596afe  eggcube_server
-044baf1dde2db98183b6d4a12a9411f5f4e2d4b46339d16c4027ada20cd61288f00dd59496407cf36ea70a921c6ed865bab6ff3bd18ea3f51413a0d50c38d2d7  eggcube_client.exe
-b7f41aa3887e280194a386c5cbd2df300a4a0cc66d6536d99051e82a7f7175d8ea9c70bf0a8fa449e801d35b0f63d54048aad6aef3c9f97fcae70bd3083fed53  eggcube_server.exe
+###### sha512
 
-###### sha256 stable v1
-116e45874ecfbf28daf477f427a388081ef81eb64c6f3e7e2b8b3913e424b160  eggcube_64_client
-b34c26967f6a9026d402b2e0ed60cd515114d184685ed7b8869e1e79b013d2b9  eggcube_64_server
-654b016afd6bb4f9e7c63297367ef8da2a093ea4dbc5d75a95d871c1dc5b3def  eggcube_client
-cd3456e402a2dc2a26007ef82ad318187fd4ad64bb2426f17eaa98b9ea85497a  eggcube_server
-f87db289bc419e59a9d53b9632af1c85d5a3236f5d671e256943495089ab9dc8  eggcube_client.exe
-c29ac1d89454ca0235535b715deeaa955320ab38eb70470cf7d1291aed966104  eggcube_server.exe
+70f26792bf307d5a3854e98ed873c7b73c6654028aa930649816f8ae31de25c11c25ffebeff5bec07e6f07188408ac379d4b986266bf5086d77762b9d9464b5d  bin_unix/eggcube_64_client
+284c443f417a9cece481dbd16c64b695e6ae6abae312a25d7e0d60fc4a914669cd935ad87fb1631382734802c004660697f8c7bc192dbd277d99a28f4a26a7d0  bin_unix/eggcube_64_server
+53fc4b1fab4ac57530ec87055eec4a56d7112af136a584e233fd907a697beaebdce2923b11c73604d5da83c05f0199123ea5d2a3b26b69e8729b5fe682d0d6bc  bin_unix/eggcube_client
+2117904b9b24559aa4e962ba67f02a05ae22b1f1a893a11419d64a7e42f8ceabf5084d772ead010311ea0731bb6b090cfa0bd692bf5a9a7d6c7955750bae0034  bin_unix/eggcube_server
 
-###### sha256 v3
-ebc426ad4c60d2ea66145cb9c579fdc5bf9d753ae546c317fe287f630645b4b2  eggcube_64_client
-5be03253b3edfbf7b0865344cd276cc5dcf87f12651ed45fc73417b715d5c6de  eggcube_64_server
-79ae78576e964496bddd889953b98c44c89f112d9a6db663d7fc6a9a5751cd9a  eggcube_client
-36dd4e4b8b6f5e4b573568577ae38bbbe83f383b13933edd7bffab5772a78974  eggcube_server
-5dc4865cf8ac4f767c2cc9d66127e5665baece3cf3000400ecd05902a1e728ac  eggcube_client.exe
-498711286e1940c6b7576bee9acae1d4e7017d4ab78ad9c728068a9c9cea725b  eggcube_server.exe
+6c746fc74f83d9ff2731617ce4c17f51bbb0356ecbf098e8883da8b6c70cfaad3f679d6d1e36eb4113ff9531418351f34912b082c1ce47e0d8a904c8cafe979e  bin_curl3/eggcube_64_client
+c1aea646e649c01816d210a6fe03b5b8e7c484789eeb4aef74cfa4e0e1eabf1678471f9b6e5270d735fdca9a416695e98935e400bbfbc0b82fe64199559f680d  bin_curl3/eggcube_64_server
+b0c6b835779278a8cae4efd4915891fabd8681bceb63f328fcc7efc81633ec4ec6cca6e7e959fb1575719882a67a2371aca5bc5ea2ed60718007f7aa4b96d311  bin_curl3/eggcube_client
+7f644d1587ee2e02ed83db1395c1011b7263200da2d59f15ea108bc2ba821c70d3d121388dd730978132b02e134016b31d2db8d88b8082a1245c362d9a5f7dfd  bin_curl3/eggcube_server
 
-###### sha256 v2
-ca2d63d1760fef7861a059f6573229cfc54d3ec70d5499e63701223f3c6553f1  eggcube_64_client
-8dcf73a479dbc496118402d9e924cec729b66400c90279546c482ab751d4c626  eggcube_64_server
-bc985b654d1745268a2962d3c5e3f0d18b32e040f1b37e22889291f22543d610  eggcube_client
-10fd8c66a1e4d19fad384ebf2128d8ef6f285175cb31b5b54acf4bdcbb6c0686  eggcube_server
-882b6eb880b19245018d67809a2229593be65eff03d9792ed28569c5b1479eb0  eggcube_client.exe
-fd49b8a71c9aa9fe2b369881557702fe11dc90154ab4733838bd505be4072abe  eggcube_server.exe
-
-###### sha256 v1
-fa0261c3fa5a0d4c8fff4216a85bc896a0389851938a82ba6b36d70d6b9ab05f  eggcube_64_client
-98d6aab9f32b0e719c1dff76ce6ed8cf25291729acc225914a385dd600bdef97  eggcube_64_server
-d5e9f57aa55138f770a84f7e3c7d106b0ecd78c9be7f4def37a7343860518714  eggcube_client
-82eb395818dddbfd6cdc9897c8e3549fd5d12abec9c81c73826ce904ebe2b2a0  eggcube_server
-22b63e3870a30640f2793f30f50204c13cc07c8e357ef0b102f2a7cf72bc2438  eggcube_client.exe
-34c62018cd2acf4716153d248564ea98f64fb8766e7a701a30df479957777f11  eggcube_server.exe
+de582d2755b6e6bb4be26221d9d400f3c5db7619dd919117d132f2a0a32cf387ded6db6dbe39d84ed65b987b289841f131a1a67e917aa7c8a524eb22072f2059  bin_win32/eggcube_client.exe
+ef7c0d33da34c9ede9c27292cfa4d4d6057dffe281c691f76384de383c781ceb8321781a7155da99a060a7c78afcd527e1ec8e1de3090eb97f493f47f4e8e826  bin_win32/eggcube_server.exe
